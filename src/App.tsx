@@ -10,14 +10,7 @@ import 'react-toastify/dist/ReactToastify.css';
 import { useAuthState } from 'react-firebase-hooks/auth';
 
 firebase.initializeApp({
-   apiKey: "AIzaSyD1CgcyUn3KjXO36-o4A94-wzKsno1dMKY",
-    authDomain: "reactfireauthdemo.firebaseapp.com",
-    databaseURL: "https://reactfireauthdemo.firebaseio.com",
-    projectId: "reactfireauthdemo",
-    storageBucket: "reactfireauthdemo.appspot.com",
-    messagingSenderId: "568230213138",
-    appId: "1:568230213138:web:142b74874f06b5a9f30acb",
-    measurementId: "G-4X3JSZDL2W"
+  //firebase config
 })
 
 const auth = firebase.auth();
