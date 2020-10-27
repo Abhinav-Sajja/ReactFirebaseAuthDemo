@@ -4,6 +4,9 @@
 
 An app made with reactjs for demonstrating firebase Authentication
 
+## Finished Preview 
+![preview-img](https://iconiqfire.netlify.app/finished-preview.png)
+
 ## Live Demo
  The following app can be tested  [here](https://reactfireauthdemo.firebaseapp.com/)
 
