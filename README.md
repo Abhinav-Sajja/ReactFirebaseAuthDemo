@@ -10,7 +10,7 @@ An app made with reactjs for demonstrating firebase Authentication
 ## Live Demo
  The following app can be tested  [here](https://reactfireauthdemo.firebaseapp.com/)
 
-## Running on local a local machine
+## Running on a local machine
 
    
 
